@@ -1,1 +1,3 @@
 testvalue: confidClientOne
+server:
+  port: 8089
